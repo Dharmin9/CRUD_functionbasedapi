@@ -1,4 +1,10 @@
 .idea/
 CRUD_functionbasedapi_05/__pycache__/
-
-last two days abhishbhai and samarthbhai give me guidence and tell me what to do so i follow him
+__pycache__/
+.py[cod]
+.idea/
+.log
+.pot
+.pyc
+__pycache__/
+local_settings.py
